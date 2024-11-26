@@ -1,0 +1,144 @@
+body{
+    background-color: black;
+}
+#option1{
+    width: 550px;
+    height: 868px;
+    margin-top: 287px;
+    margin-left: 318px;
+    padding-top: 44px;
+    background: #23252C;
+}
+#combi{    
+    margin-left: 116px;
+    margin-top: 44px;
+    
+}
+.image{
+    width: 317px;
+    height: 317px;
+    border-radius: 10px 10px 0px 0px;
+}
+
+.body{
+    width: 317px;
+    height: 399px;
+    background-color: #1A1B21;
+    padding-top: 5px;
+    padding-bottom: 40px;
+}
+
+#laura {
+    font-family: Inter;
+    font-size: 25px;
+    font-weight: 700;
+    text-align: center;
+    color: #fff;
+}
+
+#front{
+    font-family: Inter;
+    font-size: 12.8px;
+    font-weight: 400;
+    line-height: 15.49px;
+    text-align: center;
+    color: #F3BF99;
+}
+
+#website{
+    font-family: Inter;
+    font-size: 10.24px;
+    font-weight: 400;
+    line-height: 15.36px;
+    text-align: center;
+    color: #F5F5F5;   
+}
+
+#email{
+    width: Fixed (115px)px;
+    height: Hug (34px)px;
+    padding: 9px 13px;
+    margin-left: 130px;
+    border-radius: 6px;
+    border: 1px solid #D1D5DB;
+}
+#linkedin{
+    width: Fixed (115px)px;
+    height: Hug (34px)px;
+    padding: 9px 13px 9px 11px;
+    margin-left: 122px;
+    gap: 8px;
+    border-radius: 6px ;
+    opacity: 0px;
+    border: 1px solid #5093E2;
+    background: #5093E2 ;
+    box-shadow: 0px 1px 2px 0px #0000000D;
+
+}
+.para{
+    padding: 29px;
+}
+#about{
+    font-family: inter;
+    color:  #F5F5F5;
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 24px;
+    text-align: left;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+    width: 242.71px;
+    height: 21px;
+    top: 554px;
+    left: 151px;
+    gap: 0px;
+    opacity: 0px;
+}
+#interests{
+    width: 242.71px;
+    height: 21px;
+    top: 668px;
+    left: 151px;
+    gap: 0px;
+    opacity: 0px;
+    color:  #F5F5F5;
+    font-family: Inter;
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 24px;
+    text-align: left;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+
+}
+
+p{
+    font-family: Inter;
+    font-size: 10.24px;
+    font-weight: 400;
+    line-height: 15.36px;
+    text-align: left;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+     color: #DCDCDC;
+}
+footer{
+    font-family: Inter;
+    font-size: 9px;
+    font-weight: 700;
+    line-height: 10.89px;
+    text-align: center;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+    color: #FFFFFFA6;
+}
+#footer{
+    width: 317px;
+    height: 38.22px;
+    padding-top: 0px; 
+    background: #161619;
+}
+#about-interests{
+    
+    
+}
