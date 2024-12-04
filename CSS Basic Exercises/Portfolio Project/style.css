@@ -1,0 +1,288 @@
+body{
+    padding-left: 50px;
+    padding-top: 30px;
+    padding-right: 50px;
+}
+.heading{
+    
+}
+#logo{
+    width: 50.06px;
+    height: 55px;
+    position: absolute; 
+    padding-top: 10px;   
+}
+#matheus{
+    font-family: Roboto;
+    font-size: 36px;
+    font-weight: 900;
+    line-height: 42.19px;
+    text-align: left;
+    color: #445964;
+    width: 284px;
+    height: 42px;
+    margin-left: 70px;
+    position: absolute; 
+}
+nav{
+    display: flex;
+    flex-flow: row;
+    align-items: flex-end;
+    margin-left:811px;
+    width: 856px;
+    height: 23px;
+    top: 78px;
+   position: absolute;
+}
+.nav{
+    font-family: Roboto;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 23.44px;
+    width: 51px;
+    height: 23px;
+    text-decoration: none;
+    color: #445964;
+    text-align: right;
+    margin:auto;
+    padding-left: 10px;
+    padding-right: 20px ;
+}
+
+.first-text{
+    width: 545px;
+    height: 240px;
+    top: 330px;
+position:absolute;
+}
+.smallp{
+    font-family: Roboto;
+    font-size: 24px;
+    font-weight: 500;
+    line-height: 28.13px;
+    text-align: left;
+    color: #445964;
+}
+#programador{
+    font-family: Roboto;
+    font-size: 72px;
+    font-weight: 900;
+    line-height: 84.38px;
+    text-align: left;
+    color: #445964;
+    width: 545px;
+    height: 168px;
+}
+#saiba{
+    background: rgb(46, 46, 46);
+    font-family: Roboto;
+    font-size: 24px;
+    font-weight: 900;
+    line-height: 28.13px;
+    text-align: center;
+    color: #FFFFFF;
+    width: 310px;
+    height: 65px;
+    top: 700px;
+    left: 251px;
+    gap: 0px;
+    border-radius: 20px;
+}
+
+#first-photo{
+    width: 705px;
+height: 697px;
+top: 289px;
+left: 963px;
+position: absolute;
+}
+#section2{
+    width: 1920px;
+height: 1080px;
+top: 1080px;
+left: 49px;
+justify-content: center;
+    position: absolute;
+}
+#matheus-photo{
+    width: 183px;
+height: 207px;
+top: 55px;
+left: 868px;
+position: relative;
+
+}
+.grey-text{
+    font-family: Roboto;
+font-size: 64px;
+font-weight: 900;
+line-height: 75px;
+text-align: left;
+text-underline-position: from-font;
+text-decoration-skip-ink: none;
+color: #445964;
+}
+.dark-titles{
+    font-family: Roboto;
+font-size: 64px;
+font-weight: 900;
+line-height: 75px;
+text-align: center;
+}
+
+.lgg{
+color: #445964;
+text-align:justify;
+font-family: Roboto;
+font-size: 36px;
+font-weight: 900;
+line-height: 42.19px;
+width: 116px;
+height: 42px;
+display: flex;
+gap: 180px;
+list-style-type: none;
+margin:auto;
+margin-bottom: 150px;
+justify-content: center;
+
+
+}
+#my-name{
+    text-align: justify;
+    width: 1032px;
+height: 56px;
+margin: auto;
+
+
+}
+#section3{
+    width: 1920px;
+height: 1080px;
+top: 2140px;
+left: 49px;
+position: absolute;
+}
+#technologias{
+    text-align: center;
+    padding-top: 100px;
+   
+}
+.small-titles{
+    font-family: Roboto;
+font-size: 36px;
+font-weight: 900;
+line-height: 42.19px;
+text-align: center;
+text-underline-position: from-font;
+text-decoration-skip-ink: none;
+
+}
+#grey-sub{
+    color: #445964;
+
+}
+.utilizadas{
+    display: flex;
+gap: 180px;
+list-style-type: none;
+justify-content: center;
+
+}
+#section4{
+    width: 1920px;
+height: 1080px;
+top: 3172px;
+left: 57px;
+position: absolute;
+
+}
+#jornada{
+    display: flex;
+    justify-content: center;
+    gap: 100px;
+}
+#minha{
+    width: 398px;
+height: 56px;
+top: 87px;
+left: 496px;
+text-align: right;
+position: absolute;
+margin-top: 60px;
+}
+#experiencia{
+    width: 338px;
+height: 75px;
+top: 34px;
+left: 999px;
+position: absolute;
+}
+.all-cargo{
+    display: flex;
+    justify-content: center;
+    gap: 50px;
+    top: 365px;
+    left: 75px;
+    position: absolute;
+}
+.cargo{
+    width: 530px;
+height: 280px;
+
+border-radius: 20px;
+background: #263138;
+text-align: center;
+font-family: Roboto;
+font-size: 24px;
+font-weight: 500;
+line-height: 28.13px;
+color: #FFFFFF;
+padding-top: 30px;
+padding-left: 20px;
+padding-right: 20px;
+}
+#cargo2{
+    background: #445964;
+
+}
+
+.centeredp{
+    font-family: Roboto;
+font-size: 24px;
+font-weight: 500;
+line-height: 28.13px;
+text-align: center;
+}
+.cargo-title{
+    
+    font-family: Roboto;
+font-size: 36px;
+font-weight: 900;
+line-height: 42.19px;
+
+
+
+}
+.last{
+    
+    width: 610px;
+height: 93px;
+top: 816px;
+left: 655px;
+position: absolute;
+
+}
+.bold{
+    font-family: Roboto;
+font-size: 28px;
+font-weight: 900;
+line-height: 32.81px;
+text-align: center;
+}
+#unica{
+    color: #445964;
+    width: 610px;
+    height: 93px;
+
+}
