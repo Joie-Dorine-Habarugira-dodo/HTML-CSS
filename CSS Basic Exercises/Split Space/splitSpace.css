@@ -1,0 +1,115 @@
+body{
+    
+}
+.whole {
+    width: 1296px;
+    margin: auto;
+}
+
+.image {
+    width: 1296px;
+    height: 1076px;
+}
+
+.grey {
+    background: #F1F1F1;
+    width: 1296px;
+    padding-top: 114px;
+
+}
+
+.body {
+    width: 896px;
+    height: 840px;
+    margin-left: 180px;
+}
+
+.titles {
+    font-family: Inter;
+    font-size: 36px;
+    font-weight: 700;
+    line-height: 42.26px;
+    text-align: left;
+    color: #F28D00;
+}
+
+.line {
+    width: 71.27px;
+    border: 3px solid #F28D00;
+    margin-right: 1000px;
+
+}
+
+.para {
+    font-family: Inter;
+    font-size: 22px;
+    font-weight: 700;
+    line-height: 25.83px;
+    text-align: left;
+    color: #787878;
+    padding-top: 70px;
+    padding-bottom: 70px;
+}
+
+#signup {
+    font-family: Inter;
+    font-size: 36px;
+    font-weight: 500;
+    line-height: 54px;
+    text-align: left;
+    color: #F28D00;
+}
+
+.signup {
+    width: 752px;
+    margin-left: 180px;
+}
+
+.input {
+    width: 752px;
+    height: 59px;
+    gap: 0px;
+    border-radius: 15px;
+    border: 1px solid #F1F1F1;
+    margin-top: 52px;
+    box-shadow: 0px 10px 38px 0px #00000014;
+    font-family: Inter;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 21px;
+    text-align: left;
+    padding-left: 30px;
+}
+
+#register {
+    margin-top: 96px;
+    margin-bottom: 418px;
+    width: 180px;
+    height: 55px;
+    border-radius: 100px;
+    border: 1px solid #F28D00;
+    background: #F28D00;
+    font-family: Poppins;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    text-align: center;
+    color: #FFFFFF;
+    box-shadow: 0px 10px 38px 0px #F28D004D;
+}
+
+.footer {
+    width: 1396px;
+    height: 114px;
+    background: #FFFFFF;
+}
+
+#footer {
+    font-family: Inter;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    margin-top: 45px;
+    margin-left: 200px;
+    margin-bottom: 45px;
+}
