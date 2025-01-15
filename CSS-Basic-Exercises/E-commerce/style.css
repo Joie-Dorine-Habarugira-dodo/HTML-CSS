@@ -1,0 +1,25 @@
+#section1{
+    width: 1440px;
+height: 768px;
+background: linear-gradient( #d7eefe,#FFFFFF 40%);
+padding-top: 30px;
+padding-left: 80px;
+padding-right: 40px;
+}
+#heading{
+    height: 50px;
+    margin-bottom: 20px;
+    margin-left: 70px;
+}
+#logo{
+font-size: 50px;
+font-weight: 700;
+color: #4A99D3;
+
+}
+nav{
+    margin-top: -80px;
+    float: right;
+    margin-right:70px ;
+
+}
